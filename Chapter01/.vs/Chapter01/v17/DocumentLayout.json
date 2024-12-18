@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|solutionrelative:Chapter01\\scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|solutionrelative:Chapter01\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\Helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|solutionrelative:Chapter01\\Helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scanf.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\scanf.c",
+              "RelativeDocumentMoniker": "Chapter01\\scanf.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\scanf.c",
+              "RelativeToolTip": "Chapter01\\scanf.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-18T09:02:46.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "variable.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\variable.c",
+              "RelativeDocumentMoniker": "Chapter01\\variable.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\variable.c",
+              "RelativeToolTip": "Chapter01\\variable.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-18T08:43:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helloworld.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\Helloworld.c",
+              "RelativeDocumentMoniker": "Chapter01\\Helloworld.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\Helloworld.c",
+              "RelativeToolTip": "Chapter01\\Helloworld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-18T08:33:48.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
