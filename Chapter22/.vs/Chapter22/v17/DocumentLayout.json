@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67432F2-64AE-47BB-A2E6-95508CDE81F7}|Chapter22\\Chapter22.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter22\\Chapter22\\Telephonelnfo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C67432F2-64AE-47BB-A2E6-95508CDE81F7}|Chapter22\\Chapter22.vcxproj|solutionrelative:Chapter22\\Telephonelnfo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67432F2-64AE-47BB-A2E6-95508CDE81F7}|Chapter22\\Chapter22.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter22\\Chapter22\\TwoPointDistance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C67432F2-64AE-47BB-A2E6-95508CDE81F7}|Chapter22\\Chapter22.vcxproj|solutionrelative:Chapter22\\TwoPointDistance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Telephonelnfo.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter22\\Chapter22\\Telephonelnfo.c",
+              "RelativeDocumentMoniker": "Chapter22\\Telephonelnfo.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter22\\Chapter22\\Telephonelnfo.c",
+              "RelativeToolTip": "Chapter22\\Telephonelnfo.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T03:58:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwoPointDistance.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter22\\Chapter22\\TwoPointDistance.c",
+              "RelativeDocumentMoniker": "Chapter22\\TwoPointDistance.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter22\\Chapter22\\TwoPointDistance.c",
+              "RelativeToolTip": "Chapter22\\TwoPointDistance.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T03:46:40.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

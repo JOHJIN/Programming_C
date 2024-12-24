@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C078D-50BD-4C4F-A1BC-3464F051FF3A}|Chapter24\\Chapter24.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter24\\Chapter24\\TextCharFileCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E6C078D-50BD-4C4F-A1BC-3464F051FF3A}|Chapter24\\Chapter24.vcxproj|solutionrelative:Chapter24\\TextCharFileCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C078D-50BD-4C4F-A1BC-3464F051FF3A}|Chapter24\\Chapter24.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter24\\Chapter24\\FirstFileWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E6C078D-50BD-4C4F-A1BC-3464F051FF3A}|Chapter24\\Chapter24.vcxproj|solutionrelative:Chapter24\\FirstFileWrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextCharFileCopy.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter24\\Chapter24\\TextCharFileCopy.c",
+              "RelativeDocumentMoniker": "Chapter24\\TextCharFileCopy.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter24\\Chapter24\\TextCharFileCopy.c",
+              "RelativeToolTip": "Chapter24\\TextCharFileCopy.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T07:35:18.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstFileWrite.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter24\\Chapter24\\FirstFileWrite.c",
+              "RelativeDocumentMoniker": "Chapter24\\FirstFileWrite.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter24\\Chapter24\\FirstFileWrite.c",
+              "RelativeToolTip": "Chapter24\\FirstFileWrite.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T06:55:26.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

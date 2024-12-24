@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4314DD-12D0-41D2-B678-8EFA479CE7A5}|Chapter8\\Chapter8.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter8\\Chapter8\\ThreeOperand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A4314DD-12D0-41D2-B678-8EFA479CE7A5}|Chapter8\\Chapter8.vcxproj|solutionrelative:Chapter8\\ThreeOperand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4314DD-12D0-41D2-B678-8EFA479CE7A5}|Chapter8\\Chapter8.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter8\\Chapter8\\CalOne.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A4314DD-12D0-41D2-B678-8EFA479CE7A5}|Chapter8\\Chapter8.vcxproj|solutionrelative:Chapter8\\CalOne.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreeOperand.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter8\\Chapter8\\ThreeOperand.c",
+              "RelativeDocumentMoniker": "Chapter8\\ThreeOperand.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter8\\Chapter8\\ThreeOperand.c",
+              "RelativeToolTip": "Chapter8\\ThreeOperand.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T09:08:07.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalOne.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter8\\Chapter8\\CalOne.c",
+              "RelativeDocumentMoniker": "Chapter8\\CalOne.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter8\\Chapter8\\CalOne.c",
+              "RelativeToolTip": "Chapter8\\CalOne.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T08:53:42.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

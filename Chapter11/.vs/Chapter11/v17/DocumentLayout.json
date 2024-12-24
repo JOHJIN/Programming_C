@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D51228-35DD-4380-B6E7-4D35CB8CAD35}|Chapter11\\Chapter11.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter11\\Chapter11\\StartEndString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D51228-35DD-4380-B6E7-4D35CB8CAD35}|Chapter11\\Chapter11.vcxproj|solutionrelative:Chapter11\\StartEndString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D51228-35DD-4380-B6E7-4D35CB8CAD35}|Chapter11\\Chapter11.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter11\\Chapter11\\ReadString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D51228-35DD-4380-B6E7-4D35CB8CAD35}|Chapter11\\Chapter11.vcxproj|solutionrelative:Chapter11\\ReadString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartEndString.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter11\\Chapter11\\StartEndString.c",
+              "RelativeDocumentMoniker": "Chapter11\\StartEndString.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter11\\Chapter11\\StartEndString.c",
+              "RelativeToolTip": "Chapter11\\StartEndString.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T03:16:18.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadString.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter11\\Chapter11\\ReadString.c",
+              "RelativeDocumentMoniker": "Chapter11\\ReadString.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter11\\Chapter11\\ReadString.c",
+              "RelativeToolTip": "Chapter11\\ReadString.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T02:56:55.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

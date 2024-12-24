@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6431BA75-FB72-4D8A-8C40-2896F73F501D}|Chapter04\\Chapter04.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter04\\Chapter04\\floatError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6431BA75-FB72-4D8A-8C40-2896F73F501D}|Chapter04\\Chapter04.vcxproj|solutionrelative:Chapter04\\floatError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "floatError.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter04\\Chapter04\\floatError.c",
+              "RelativeDocumentMoniker": "Chapter04\\floatError.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter04\\Chapter04\\floatError.c",
+              "RelativeToolTip": "Chapter04\\floatError.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T06:03:38.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

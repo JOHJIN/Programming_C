@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\ddd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\ddd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\roundArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\roundArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\areaArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\areaArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\areaArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\areaArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\basicArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\basicArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\basicArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\basicArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\num.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\num.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEF47C08-5352-46EF-9440-FD98F2ADD319}|Chapter27\\Chapter27.vcxproj|solutionrelative:Chapter27\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main2.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\main2.c",
+              "RelativeDocumentMoniker": "Chapter27\\main2.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\main2.c",
+              "RelativeToolTip": "Chapter27\\main2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:13:10.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ddd.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\ddd.c",
+              "RelativeDocumentMoniker": "Chapter27\\ddd.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\ddd.c",
+              "RelativeToolTip": "Chapter27\\ddd.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:11:39.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "roundArith.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\roundArith.h",
+              "RelativeDocumentMoniker": "Chapter27\\roundArith.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\roundArith.h",
+              "RelativeToolTip": "Chapter27\\roundArith.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T09:10:45.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "areaArith.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\areaArith.c",
+              "RelativeDocumentMoniker": "Chapter27\\areaArith.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\areaArith.c",
+              "RelativeToolTip": "Chapter27\\areaArith.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:08:49.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "areaArith.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\areaArith.h",
+              "RelativeDocumentMoniker": "Chapter27\\areaArith.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\areaArith.h",
+              "RelativeToolTip": "Chapter27\\areaArith.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T09:07:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "basicArith.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\basicArith.c",
+              "RelativeDocumentMoniker": "Chapter27\\basicArith.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\basicArith.c",
+              "RelativeToolTip": "Chapter27\\basicArith.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T09:06:39.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "basicArith.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\basicArith.h",
+              "RelativeDocumentMoniker": "Chapter27\\basicArith.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\basicArith.h",
+              "RelativeToolTip": "Chapter27\\basicArith.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T09:05:13.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\main.c",
+              "RelativeDocumentMoniker": "Chapter27\\main.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\main.c",
+              "RelativeToolTip": "Chapter27\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T08:51:32.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "func.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\func.c",
+              "RelativeDocumentMoniker": "Chapter27\\func.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\func.c",
+              "RelativeToolTip": "Chapter27\\func.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T08:50:10.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "num.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\num.c",
+              "RelativeDocumentMoniker": "Chapter27\\num.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter27\\Chapter27\\num.c",
+              "RelativeToolTip": "Chapter27\\num.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T08:49:45.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

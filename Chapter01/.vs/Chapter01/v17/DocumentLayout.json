@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\recursive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|solutionrelative:Chapter01\\recursive.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE7B9BF0-834E-4D86-BC43-921BE4FDA3D6}|Chapter01\\Chapter01.vcxproj|solutionrelative:Chapter01\\scanf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "recursive.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\recursive.c",
+              "RelativeDocumentMoniker": "Chapter01\\recursive.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\recursive.c",
+              "RelativeToolTip": "Chapter01\\recursive.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T01:37:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "scanf.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\scanf.c",
               "RelativeDocumentMoniker": "Chapter01\\scanf.c",
               "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\scanf.c",
               "RelativeToolTip": "Chapter01\\scanf.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-18T09:02:46.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "variable.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\variable.c",
               "RelativeDocumentMoniker": "Chapter01\\variable.c",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Chapter01\\variable.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-18T08:43:47.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T08:43:47.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Helloworld.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter01\\Chapter01\\Helloworld.c",
               "RelativeDocumentMoniker": "Chapter01\\Helloworld.c",
@@ -64,8 +80,7 @@
               "RelativeToolTip": "Chapter01\\Helloworld.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-18T08:33:48.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T08:33:48.83Z"
             }
           ]
         }

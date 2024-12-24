@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBD8772-0E12-4BDC-935D-520C03B75043}|Chapter14\\Chapter14.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter14\\Chapter14\\CallByValueSwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEBD8772-0E12-4BDC-935D-520C03B75043}|Chapter14\\Chapter14.vcxproj|solutionrelative:Chapter14\\CallByValueSwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBD8772-0E12-4BDC-935D-520C03B75043}|Chapter14\\Chapter14.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter14\\Chapter14\\ArrayParamAccess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEBD8772-0E12-4BDC-935D-520C03B75043}|Chapter14\\Chapter14.vcxproj|solutionrelative:Chapter14\\ArrayParamAccess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallByValueSwap.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter14\\Chapter14\\CallByValueSwap.c",
+              "RelativeDocumentMoniker": "Chapter14\\CallByValueSwap.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter14\\Chapter14\\CallByValueSwap.c",
+              "RelativeToolTip": "Chapter14\\CallByValueSwap.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T07:40:29.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayParamAccess.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter14\\Chapter14\\ArrayParamAccess.c",
+              "RelativeDocumentMoniker": "Chapter14\\ArrayParamAccess.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter14\\Chapter14\\ArrayParamAccess.c",
+              "RelativeToolTip": "Chapter14\\ArrayParamAccess.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T06:57:29.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

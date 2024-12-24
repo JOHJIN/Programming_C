@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\StringCompCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|solutionrelative:Chapter21\\StringCompCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\spaceEqual.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|solutionrelative:Chapter21\\spaceEqual.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\StringCopyCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|solutionrelative:Chapter21\\StringCopyCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\InputButFlush.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|solutionrelative:Chapter21\\InputButFlush.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\ReadWriteChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA67D53-A4FE-494A-B9D2-11BE8F2F69F0}|Chapter21\\Chapter21.vcxproj|solutionrelative:Chapter21\\ReadWriteChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringCompCase.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\StringCompCase.c",
+              "RelativeDocumentMoniker": "Chapter21\\StringCompCase.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\StringCompCase.c",
+              "RelativeToolTip": "Chapter21\\StringCompCase.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T03:33:22.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spaceEqual.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\spaceEqual.c",
+              "RelativeDocumentMoniker": "Chapter21\\spaceEqual.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\spaceEqual.c",
+              "RelativeToolTip": "Chapter21\\spaceEqual.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T03:13:33.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringCopyCase.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\StringCopyCase.c",
+              "RelativeDocumentMoniker": "Chapter21\\StringCopyCase.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\StringCopyCase.c",
+              "RelativeToolTip": "Chapter21\\StringCopyCase.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T02:48:32.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputButFlush.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\InputButFlush.c",
+              "RelativeDocumentMoniker": "Chapter21\\InputButFlush.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\InputButFlush.c",
+              "RelativeToolTip": "Chapter21\\InputButFlush.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T02:37:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadWriteChar.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\ReadWriteChar.c",
+              "RelativeDocumentMoniker": "Chapter21\\ReadWriteChar.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter21\\Chapter21\\ReadWriteChar.c",
+              "RelativeToolTip": "Chapter21\\ReadWriteChar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T01:57:27.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

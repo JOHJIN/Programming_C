@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E2A7DD-F7CC-412A-B45A-F121F01CC066}|Chapter07\\Chapter07.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter07\\Chapter07\\NineNineNine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99E2A7DD-F7CC-412A-B45A-F121F01CC066}|Chapter07\\Chapter07.vcxproj|solutionrelative:Chapter07\\NineNineNine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NineNineNine.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter07\\Chapter07\\NineNineNine.c",
+              "RelativeDocumentMoniker": "Chapter07\\NineNineNine.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter07\\Chapter07\\NineNineNine.c",
+              "RelativeToolTip": "Chapter07\\NineNineNine.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T08:40:46.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E5B47-FFA0-47B9-915B-BD97B4213CF5}|Chapter25\\Chapter25.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter25\\Chapter25\\DynamicMemoryAllocation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A5E5B47-FFA0-47B9-915B-BD97B4213CF5}|Chapter25\\Chapter25.vcxproj|solutionrelative:Chapter25\\DynamicMemoryAllocation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5E5B47-FFA0-47B9-915B-BD97B4213CF5}|Chapter25\\Chapter25.vcxproj|C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter25\\Chapter25\\ReadStringFault2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A5E5B47-FFA0-47B9-915B-BD97B4213CF5}|Chapter25\\Chapter25.vcxproj|solutionrelative:Chapter25\\ReadStringFault2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicMemoryAllocation.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter25\\Chapter25\\DynamicMemoryAllocation.c",
+              "RelativeDocumentMoniker": "Chapter25\\DynamicMemoryAllocation.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter25\\Chapter25\\DynamicMemoryAllocation.c",
+              "RelativeToolTip": "Chapter25\\DynamicMemoryAllocation.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T08:07:32.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadStringFault2.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter25\\Chapter25\\ReadStringFault2.c",
+              "RelativeDocumentMoniker": "Chapter25\\ReadStringFault2.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects_C\\Programming_C\\Chapter25\\Chapter25\\ReadStringFault2.c",
+              "RelativeToolTip": "Chapter25\\ReadStringFault2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T07:55:59.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
